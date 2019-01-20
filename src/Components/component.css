@@ -1,0 +1,14 @@
+.bgimg{
+    background-image:url(https://cdn-images-1.medium.com/max/2000/1*1dxYz_IKMEA5Oj8AgG9ZvA.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    
+    /* width: 100vw */
+}
+
+/* .hassan{
+   background: linear-gradient(rgb(59, 59, 131), rgb(83, 177, 83));
+   width: 100%;
+   height: 100%; */
+/* }  */
